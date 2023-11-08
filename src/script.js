@@ -29,7 +29,7 @@ let imgsin = document.querySelector(".imgsin")
 let title = document.querySelector(".title")
 
 let winnner = document.querySelector(".winnner")
-// let playeronenumber = "";
+
 let count = 5;
 let countth = 5;
 let countfo =5;
